@@ -23,4 +23,4 @@
 ## 🌐 Connect With Me
 
 * Portfolio: your-link
-* LinkedIn: your-link
+* LinkedIn: https://www.linkedin.com/in/asif-nazeer-37b9b8242
