@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Asif
 
-🚀 Full Stack Developer | MERN | Spring Boot | AI Integration
+🚀 Full Stack Developer | MERN | AI Integration
 
 ## 💻 Tech Stack
 
 * Frontend: React, HTML, CSS, Tailwind
-* Backend: Node.js, Spring Boot
+* Backend: Node.js
 * Database: MongoDB, MySQL
 * AI: FastAPI, ML Models
+* SQA: Manual & Automation Testing
 
 ## 🔥 Featured Projects
 
