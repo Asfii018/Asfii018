@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Asif
 
-<!--
-**Asfii018/Asfii018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN | Spring Boot | AI Integration
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Frontend: React, HTML, CSS, Tailwind
+* Backend: Node.js, Spring Boot
+* Database: MongoDB, MySQL
+* AI: FastAPI, ML Models
+
+## 🔥 Featured Projects
+
+* 🛒 Ecommerce Website (React + Node)
+* 🎓 E-learning Platform
+* 🤖 AI Chatbot (ML-based)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Asfii018\&show_icons=true\&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+* Portfolio: your-link
+* LinkedIn: your-link
